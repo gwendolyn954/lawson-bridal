@@ -3,7 +3,7 @@ This is one of my first freelance projects, built for a UK-based bridal studio. 
 
 **Link to project:** https://lenalawson.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![Project Screenshot](https://github.com/gwendolyn954/lawson-bridal/blob/main/assets/images/LL-main.png)
 
 ## How It's Made:
 
