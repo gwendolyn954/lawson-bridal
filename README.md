@@ -5,7 +5,7 @@ This is one of my first freelance projects, built for a UK-based bridal studio. 
 
 ![Project Screenshot](https://github.com/gwendolyn954/lawson-bridal/blob/main/assets/images/LL-main.png)
 
-## How It's Made:
+## Overview:
 
 **Tech used:** HTML, CSS, JavaScript
 
