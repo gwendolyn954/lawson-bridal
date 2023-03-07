@@ -9,9 +9,9 @@ This is one of my first freelance projects, built for a UK-based bridal studio. 
 
 **Tech used:** HTML, CSS, JavaScript
 
-The goal for this project was simplicity.  The client opted for a one-page, responsive website that could be easily updated with new looks as bridal seasons changed.
+The goal for this project was simplicity.  The client opted for a one-page, responsive website that could be easily updated with new looks as bridal seasons changed. 
 
 
-## Lessons Learned:
+## Challenges:
 
-The main issue when building was the image sizes.  Not all images were sized to fit on equal scale but I was able to fix this by presizing files prior to upload, then scaling minimally using CSS.  
+Not all images were sized to fit on equal scale but I was able to fix this by presizing files prior to upload, then scaling minimally using CSS.  
