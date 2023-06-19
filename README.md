@@ -1,5 +1,5 @@
 # Lena Lawson 
-This is one of my first freelance projects, built for a UK-based bridal studio.  I was asked to select a simplistic design and add an appointment-booking capability to the client's existing Calendly account.
+Built for a UK-based bridal studio, I was asked to select a simplistic design and add calendar integration to the client's existing scheduling account.
 
 **Link to project:** https://lenalawson.netlify.app/
 
@@ -14,4 +14,4 @@ The goal for this project was simplicity.  The client opted for a one-page, resp
 
 ## Challenges:
 
-Not all images were sized to fit on equal scale but I was able to fix this by presizing files prior to upload, then scaling minimally using CSS.  
+Not all images were sized to fit on an equal scale, but I could fix this by pre-sizing files before uploading, then scaling minimally using CSS.  
